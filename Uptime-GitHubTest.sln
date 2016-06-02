@@ -12,6 +12,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Uptime-GitHubTest.Web", "src\Uptime-GitHubTest.Web\Uptime-GitHubTest.Web.xproj", "{C7E8DB37-EEF8-47A0-878D-5C1D71EB818E}"
 EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Uptime-GitHubTest.UnitTests", "src\Uptime-GitHubTest.UnitTests\Uptime-GitHubTest.UnitTests.xproj", "{86ED932E-D283-4679-B169-AE7B34861836}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -22,11 +24,16 @@ Global
 		{C7E8DB37-EEF8-47A0-878D-5C1D71EB818E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7E8DB37-EEF8-47A0-878D-5C1D71EB818E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7E8DB37-EEF8-47A0-878D-5C1D71EB818E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86ED932E-D283-4679-B169-AE7B34861836}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86ED932E-D283-4679-B169-AE7B34861836}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86ED932E-D283-4679-B169-AE7B34861836}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86ED932E-D283-4679-B169-AE7B34861836}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{C7E8DB37-EEF8-47A0-878D-5C1D71EB818E} = {EBECE8BB-EC6B-4E04-B2C6-2D1733DE15BC}
+		{86ED932E-D283-4679-B169-AE7B34861836} = {EBECE8BB-EC6B-4E04-B2C6-2D1733DE15BC}
 	EndGlobalSection
 EndGlobal
